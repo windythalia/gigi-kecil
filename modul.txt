@@ -1,4 +1,4 @@
-Tujuan pembuatan website ini adalah untuk monitoring pertumbuhan dan pencabutan gigi susu pada anak agar gigi tumbuh sesuai pada usianya dan untuk menghindari penumpukan gigi pada saat dewasa
+Tujuan pembuatan website ini adalah untuk monitoring pertumbuhan dan pencabutan gigi susu pada anak agar menghindari penumpukan gigi pada saat dewasa
 
 Alur penggunaan website
 - login 
