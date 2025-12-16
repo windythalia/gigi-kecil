@@ -1,0 +1,10 @@
+Tujuan pembuatan website ini adalah untuk monitoring pertumbuhan dan pencabutan gigi susu pada anak agar gigi tumbuh sesuai pada usianya dan untuk menghindari penumpukan gigi pada saat dewasa
+
+Alur penggunaan website
+- login 
+- input data anak
+- tambah data anak apabila mempunyai anak lebih dari satu
+- input gigi anak yang sudah tumbuh/copot
+- ada catatan gigi pada anak yang telah diinput
+- terdapat edukasi juga untuk orang tua mengenai masalah gigi pada anak, cara merawat gigi, dll.
+- bisa konsultasi ke dokter gigi juga
